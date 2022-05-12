@@ -20,7 +20,7 @@ I'm sociable can work as a team, I'm interested in Artificial intelligence and M
 
 - 📫 How to reach me **natchanon.sr.e@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/1yuUWYJf7RjQpzWCQZdv2GYXcfuIIF4jQ/view?usp=sharing](https://drive.google.com/file/d/1yuUWYJf7RjQpzWCQZdv2GYXcfuIIF4jQ/view?usp=sharing)
+- 📄 Know about me [HERE](https://drive.google.com/file/d/1mmlfVfFC_xzL1pKuN7iWwfYDqf3CW8o0/view?usp=drivesdk)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=In-The-Earth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
